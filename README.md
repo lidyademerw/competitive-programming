@@ -7,6 +7,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/lidyademerw/competitive-programming/tree/master/0009-palindrome-number) |
+| [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 ## Two Pointers
 |  |
 | ------- |
@@ -15,4 +16,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
+## Recursion
+|  |
+| ------- |
+| [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 <!---LeetCode Topics End-->
