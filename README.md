@@ -8,6 +8,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0009-palindrome-number](https://github.com/lidyademerw/competitive-programming/tree/master/0009-palindrome-number) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
+| [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 ## Two Pointers
 |  |
 | ------- |
@@ -20,4 +21,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
+## Binary Search
+|  |
+| ------- |
+| [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 <!---LeetCode Topics End-->
