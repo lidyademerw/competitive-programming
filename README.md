@@ -31,4 +31,16 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
+## Array
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+## Hash Table
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
