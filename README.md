@@ -15,6 +15,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -26,6 +27,7 @@ Solutions and practice problems for competitive programming contests.
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
@@ -35,12 +37,15 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 ## Hash Table
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
