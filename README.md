@@ -14,6 +14,7 @@ Solutions and practice problems for competitive programming contests.
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 ## String
@@ -38,6 +39,7 @@ Solutions and practice problems for competitive programming contests.
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
