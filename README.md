@@ -49,6 +49,7 @@ Solutions and practice problems for competitive programming contests.
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -56,6 +57,7 @@ Solutions and practice problems for competitive programming contests.
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
 | ------- |
