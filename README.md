@@ -19,6 +19,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
+| [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -36,6 +37,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
@@ -54,6 +56,7 @@ Solutions and practice problems for competitive programming contests.
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -83,6 +86,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
