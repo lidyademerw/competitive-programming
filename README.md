@@ -55,6 +55,7 @@ Solutions and practice problems for competitive programming contests.
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0260-single-number-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
@@ -66,6 +67,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
@@ -102,4 +104,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
+## Sliding Window
+|  |
+| ------- |
+| [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 <!---LeetCode Topics End-->
