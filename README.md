@@ -9,6 +9,7 @@ Solutions and practice problems for competitive programming contests.
 | [0007-reverse-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lidyademerw/competitive-programming/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
+| [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
@@ -32,6 +33,7 @@ Solutions and practice problems for competitive programming contests.
 ## Recursion
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 ## Binary Search
 |  |
@@ -88,6 +90,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
