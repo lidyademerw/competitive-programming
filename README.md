@@ -14,6 +14,7 @@ Solutions and practice problems for competitive programming contests.
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
+| [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 ## Two Pointers
@@ -31,6 +32,7 @@ Solutions and practice problems for competitive programming contests.
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
+| [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
 |  |
 | ------- |
@@ -114,4 +116,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
