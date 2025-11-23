@@ -12,6 +12,7 @@ Solutions and practice problems for competitive programming contests.
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
@@ -35,6 +36,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 ## Binary Search
 |  |
 | ------- |
@@ -94,6 +96,7 @@ Solutions and practice problems for competitive programming contests.
 | [0260-single-number-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 ## Enumeration
 |  |
