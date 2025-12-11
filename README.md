@@ -16,6 +16,7 @@ Solutions and practice problems for competitive programming contests.
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/lidyademerw/competitive-programming/tree/master/0507-perfect-number) |
+| [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
@@ -42,6 +43,7 @@ Solutions and practice problems for competitive programming contests.
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
+| [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -129,4 +131,12 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
