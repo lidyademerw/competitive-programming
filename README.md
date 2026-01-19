@@ -32,6 +32,7 @@ Solutions and practice problems for competitive programming contests.
 ## String
 |  |
 | ------- |
+| [0058-length-of-last-word](https://github.com/lidyademerw/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
