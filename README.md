@@ -77,6 +77,7 @@ Solutions and practice problems for competitive programming contests.
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
 | [1480-running-sum-of-1d-array](https://github.com/lidyademerw/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
+| [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
