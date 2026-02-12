@@ -25,6 +25,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
+| [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
@@ -64,6 +65,7 @@ Solutions and practice problems for competitive programming contests.
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
@@ -93,6 +95,7 @@ Solutions and practice problems for competitive programming contests.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
