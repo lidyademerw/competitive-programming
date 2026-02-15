@@ -34,6 +34,7 @@ Solutions and practice problems for competitive programming contests.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/lidyademerw/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
@@ -63,6 +64,7 @@ Solutions and practice problems for competitive programming contests.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
@@ -153,4 +155,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/lidyademerw/competitive-programming/tree/master/1480-running-sum-of-1d-array) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
