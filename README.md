@@ -51,6 +51,7 @@ Solutions and practice problems for competitive programming contests.
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
@@ -67,6 +68,7 @@ Solutions and practice problems for competitive programming contests.
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
