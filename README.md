@@ -54,6 +54,7 @@ Solutions and practice problems for competitive programming contests.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
@@ -68,6 +69,7 @@ Solutions and practice problems for competitive programming contests.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
@@ -131,6 +133,7 @@ Solutions and practice problems for competitive programming contests.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 ## Counting
 |  |
