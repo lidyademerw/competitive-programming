@@ -1,17 +1,15 @@
 class Solution:
     def twoSum(self, numbers: List[int], target: int) -> List[int]:
-        for i in numbers:
-            
-            if i <=target:
-                m=target-i
-                if m==i:
-                    return [numbers.index(i)+1,numbers.index(m)+2]
-                elif m in numbers:
-                    return [numbers.index(i)+1,numbers.index(m)+1]
+        left=0
+        right=len(numbers)-1
+        while left < right:
+            twosum=numbers[left] + numbers[right]
+            if twosum >target:
+                right-=1
+            elif twosum <target:
+                left+=1
             else:
-                return [numbers.index(i)+1,numbers.index(i)+2]
+                return [left + 1,right +1]
+        
 
-
-            # 9-first number(if first number<9) = 7  is 7 in numbers (if yes)index(7)+1
-            #else 
         
