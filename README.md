@@ -9,6 +9,7 @@ Solutions and practice problems for competitive programming contests.
 | [0007-reverse-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lidyademerw/competitive-programming/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
@@ -57,6 +58,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
 | [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
