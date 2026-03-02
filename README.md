@@ -63,6 +63,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -84,6 +85,7 @@ Solutions and practice problems for competitive programming contests.
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
