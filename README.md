@@ -28,6 +28,7 @@ Solutions and practice problems for competitive programming contests.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lidyademerw/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -84,6 +85,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/lidyademerw/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
@@ -184,6 +186,7 @@ Solutions and practice problems for competitive programming contests.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/lidyademerw/competitive-programming/tree/master/0011-container-with-most-water) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 ## Simulation
 |  |
