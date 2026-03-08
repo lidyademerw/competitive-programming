@@ -95,6 +95,7 @@ Solutions and practice problems for competitive programming contests.
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lidyademerw/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -201,6 +202,7 @@ Solutions and practice problems for competitive programming contests.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/lidyademerw/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
