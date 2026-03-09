@@ -96,6 +96,7 @@ Solutions and practice problems for competitive programming contests.
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lidyademerw/competitive-programming/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lidyademerw/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
@@ -204,6 +205,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/lidyademerw/competitive-programming/tree/master/0118-pascals-triangle) |
+| [0119-pascals-triangle-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lidyademerw/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 ## Memoization
