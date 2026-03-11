@@ -42,6 +42,7 @@ Solutions and practice problems for competitive programming contests.
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
+| [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -55,6 +56,7 @@ Solutions and practice problems for competitive programming contests.
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
+| [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 ## Recursion
