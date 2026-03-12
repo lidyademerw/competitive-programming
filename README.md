@@ -120,6 +120,7 @@ Solutions and practice problems for competitive programming contests.
 | [0414-third-maximum-number](https://github.com/lidyademerw/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
@@ -161,6 +162,7 @@ Solutions and practice problems for competitive programming contests.
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/lidyademerw/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -202,6 +204,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0011-container-with-most-water](https://github.com/lidyademerw/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -254,4 +257,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+## Counting Sort
+|  |
+| ------- |
+| [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 <!---LeetCode Topics End-->
