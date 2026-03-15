@@ -120,6 +120,7 @@ Solutions and practice problems for competitive programming contests.
 | [0414-third-maximum-number](https://github.com/lidyademerw/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
@@ -145,6 +146,7 @@ Solutions and practice problems for competitive programming contests.
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 ## Sorting
 |  |
@@ -261,4 +263,12 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
