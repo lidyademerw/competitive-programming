@@ -8,6 +8,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0007-reverse-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/lidyademerw/competitive-programming/tree/master/0009-palindrome-number) |
+| [0043-multiply-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0043-multiply-strings) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
@@ -50,6 +51,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0043-multiply-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/lidyademerw/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/lidyademerw/competitive-programming/tree/master/0125-valid-palindrome) |
@@ -221,6 +223,7 @@ Solutions and practice problems for competitive programming contests.
 ## Simulation
 |  |
 | ------- |
+| [0043-multiply-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
