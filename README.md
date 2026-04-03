@@ -47,6 +47,7 @@ Solutions and practice problems for competitive programming contests.
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
 |  |
@@ -144,6 +145,7 @@ Solutions and practice problems for competitive programming contests.
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
@@ -167,6 +169,7 @@ Solutions and practice problems for competitive programming contests.
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 ## Sorting
 |  |
 | ------- |
@@ -204,6 +207,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
+| [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 ## Divide and Conquer
 |  |
