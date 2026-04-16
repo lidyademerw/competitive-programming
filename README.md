@@ -71,6 +71,7 @@ Solutions and practice problems for competitive programming contests.
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 ## Recursion
 |  |
 | ------- |
@@ -154,6 +155,7 @@ Solutions and practice problems for competitive programming contests.
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
+| [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/lidyademerw/competitive-programming/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
