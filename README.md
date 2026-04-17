@@ -15,6 +15,7 @@ Solutions and practice problems for competitive programming contests.
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/lidyademerw/competitive-programming/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
+| [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
@@ -266,6 +267,7 @@ Solutions and practice problems for competitive programming contests.
 | [0118-pascals-triangle](https://github.com/lidyademerw/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/lidyademerw/competitive-programming/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
@@ -326,4 +328,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
 <!---LeetCode Topics End-->
