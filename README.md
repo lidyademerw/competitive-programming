@@ -155,6 +155,7 @@ Solutions and practice problems for competitive programming contests.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
+| [2016-maximum-difference-between-increasing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
