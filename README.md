@@ -148,6 +148,7 @@ Solutions and practice problems for competitive programming contests.
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
+| [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
@@ -186,6 +187,7 @@ Solutions and practice problems for competitive programming contests.
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
@@ -213,6 +215,7 @@ Solutions and practice problems for competitive programming contests.
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
+| [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -229,6 +232,7 @@ Solutions and practice problems for competitive programming contests.
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
+| [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
 ## Enumeration
 |  |
 | ------- |
