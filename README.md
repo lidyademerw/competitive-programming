@@ -175,6 +175,7 @@ Solutions and practice problems for competitive programming contests.
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/lidyademerw/competitive-programming/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
+| [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/lidyademerw/competitive-programming/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/lidyademerw/competitive-programming/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
