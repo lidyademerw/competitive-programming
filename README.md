@@ -86,6 +86,7 @@ Solutions and practice problems for competitive programming contests.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Recursion
 |  |
 | ------- |
@@ -225,6 +226,7 @@ Solutions and practice problems for competitive programming contests.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sorting
 |  |
 | ------- |
@@ -292,6 +294,7 @@ Solutions and practice problems for competitive programming contests.
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Sliding Window
 |  |
 | ------- |
