@@ -87,6 +87,7 @@ Solutions and practice problems for competitive programming contests.
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
 ## Recursion
 |  |
 | ------- |
@@ -322,6 +323,7 @@ Solutions and practice problems for competitive programming contests.
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
+| [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
 ## Dynamic Programming
 |  |
 | ------- |
