@@ -4,7 +4,7 @@ class Solution:
         v=0
         c=0
         for i in s:
-            if i in m and i.isalpha():
+            if i in m:
                 v+=1 
             elif i.isalpha():
                 c+=1
