@@ -136,6 +136,7 @@ Solutions and practice problems for competitive programming contests.
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/lidyademerw/competitive-programming/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/lidyademerw/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -264,6 +265,7 @@ Solutions and practice problems for competitive programming contests.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0260-single-number-iii) |
@@ -391,6 +393,7 @@ Solutions and practice problems for competitive programming contests.
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
 ## Breadth-First Search
 |  |
