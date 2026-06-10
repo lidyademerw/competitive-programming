@@ -29,6 +29,7 @@ Solutions and practice problems for competitive programming contests.
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0728-self-dividing-numbers) |
+| [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
@@ -174,6 +175,7 @@ Solutions and practice problems for competitive programming contests.
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lidyademerw/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lidyademerw/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
