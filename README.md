@@ -12,6 +12,7 @@ Solutions and practice problems for competitive programming contests.
 | [0050-powx-n](https://github.com/lidyademerw/competitive-programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
+| [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/lidyademerw/competitive-programming/tree/master/0263-ugly-number) |
@@ -122,6 +123,7 @@ Solutions and practice problems for competitive programming contests.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
@@ -150,6 +152,7 @@ Solutions and practice problems for competitive programming contests.
 | [0136-single-number](https://github.com/lidyademerw/competitive-programming/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
+| [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
@@ -285,6 +288,7 @@ Solutions and practice problems for competitive programming contests.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
