@@ -12,6 +12,7 @@ Solutions and practice problems for competitive programming contests.
 | [0050-powx-n](https://github.com/lidyademerw/competitive-programming/tree/master/0050-powx-n) |
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
+| [0172-factorial-trailing-zeroes](https://github.com/lidyademerw/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
