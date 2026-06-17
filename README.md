@@ -204,6 +204,7 @@ Solutions and practice problems for competitive programming contests.
 | [2540-minimum-common-value](https://github.com/lidyademerw/competitive-programming/tree/master/2540-minimum-common-value) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/lidyademerw/competitive-programming/tree/master/2574-left-and-right-sum-differences) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2873-maximum-value-of-an-ordered-triplet-i](https://github.com/lidyademerw/competitive-programming/tree/master/2873-maximum-value-of-an-ordered-triplet-i) |
@@ -239,6 +240,7 @@ Solutions and practice problems for competitive programming contests.
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2540-minimum-common-value](https://github.com/lidyademerw/competitive-programming/tree/master/2540-minimum-common-value) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
@@ -289,6 +291,7 @@ Solutions and practice problems for competitive programming contests.
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
 |  |
 | ------- |
