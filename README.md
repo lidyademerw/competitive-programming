@@ -33,6 +33,7 @@ Solutions and practice problems for competitive programming contests.
 | [0728-self-dividing-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0728-self-dividing-numbers) |
 | [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1344-angle-between-hands-of-a-clock](https://github.com/lidyademerw/competitive-programming/tree/master/1344-angle-between-hands-of-a-clock) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
