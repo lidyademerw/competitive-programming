@@ -91,6 +91,7 @@ Solutions and practice problems for competitive programming contests.
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
@@ -200,6 +201,7 @@ Solutions and practice problems for competitive programming contests.
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -242,6 +244,7 @@ Solutions and practice problems for competitive programming contests.
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
@@ -282,6 +285,7 @@ Solutions and practice problems for competitive programming contests.
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
