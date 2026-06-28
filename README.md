@@ -195,6 +195,7 @@ Solutions and practice problems for competitive programming contests.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1732-find-the-highest-altitude](https://github.com/lidyademerw/competitive-programming/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
@@ -285,6 +286,7 @@ Solutions and practice problems for competitive programming contests.
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lidyademerw/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -348,6 +350,7 @@ Solutions and practice problems for competitive programming contests.
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
+| [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
