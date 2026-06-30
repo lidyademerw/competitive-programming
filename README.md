@@ -95,6 +95,7 @@ Solutions and practice problems for competitive programming contests.
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lidyademerw/competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -251,6 +252,7 @@ Solutions and practice problems for competitive programming contests.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lidyademerw/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -341,6 +343,7 @@ Solutions and practice problems for competitive programming contests.
 | [0347-top-k-frequent-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sliding Window
@@ -349,6 +352,7 @@ Solutions and practice problems for competitive programming contests.
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
