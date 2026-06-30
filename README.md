@@ -62,6 +62,7 @@ Solutions and practice problems for competitive programming contests.
 | [0345-reverse-vowels-of-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
@@ -84,6 +85,7 @@ Solutions and practice problems for competitive programming contests.
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
+| [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/lidyademerw/competitive-programming/tree/master/0520-detect-capital) |
@@ -381,6 +383,7 @@ Solutions and practice problems for competitive programming contests.
 | [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0300-longest-increasing-subsequence) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
+| [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
