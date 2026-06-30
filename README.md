@@ -91,6 +91,7 @@ Solutions and practice problems for competitive programming contests.
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/lidyademerw/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lidyademerw/competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -245,6 +246,7 @@ Solutions and practice problems for competitive programming contests.
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/lidyademerw/competitive-programming/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
@@ -344,6 +346,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Greedy
 |  |
 | ------- |
