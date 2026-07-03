@@ -186,6 +186,7 @@ Solutions and practice problems for competitive programming contests.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
@@ -290,6 +291,7 @@ Solutions and practice problems for competitive programming contests.
 | [0414-third-maximum-number](https://github.com/lidyademerw/competitive-programming/tree/master/0414-third-maximum-number) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
@@ -423,6 +425,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0347-top-k-frequent-elements) |
+| [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
 ## Bucket Sort
 |  |
 | ------- |
