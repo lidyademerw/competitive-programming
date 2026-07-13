@@ -134,6 +134,7 @@ Solutions and practice problems for competitive programming contests.
 | [0374-guess-number-higher-or-lower](https://github.com/lidyademerw/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2540-minimum-common-value](https://github.com/lidyademerw/competitive-programming/tree/master/2540-minimum-common-value) |
 ## Number Theory
@@ -218,6 +219,7 @@ Solutions and practice problems for competitive programming contests.
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -311,6 +313,7 @@ Solutions and practice problems for competitive programming contests.
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
