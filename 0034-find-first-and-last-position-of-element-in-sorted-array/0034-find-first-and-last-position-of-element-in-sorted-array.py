@@ -2,7 +2,6 @@ class Solution:
     def searchRange(self, nums: List[int], target: int) -> List[int]:
         right=len(nums)-1
         left=0
-        l=[]
         while left <=right:
             if nums[left]==target and nums[right]==target:
                 return [left,right]
