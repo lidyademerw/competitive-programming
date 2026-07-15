@@ -45,6 +45,7 @@ Solutions and practice problems for competitive programming contests.
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lidyademerw/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lidyademerw/competitive-programming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Two Pointers
 |  |
@@ -145,6 +146,7 @@ Solutions and practice problems for competitive programming contests.
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/lidyademerw/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
 | ------- |
