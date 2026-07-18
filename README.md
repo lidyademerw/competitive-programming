@@ -41,6 +41,7 @@ Solutions and practice problems for competitive programming contests.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/lidyademerw/competitive-programming/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/lidyademerw/competitive-programming/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
@@ -146,6 +147,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
@@ -222,6 +224,7 @@ Solutions and practice problems for competitive programming contests.
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/lidyademerw/competitive-programming/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2016-maximum-difference-between-increasing-elements) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
