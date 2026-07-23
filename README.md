@@ -41,6 +41,7 @@ Solutions and practice problems for competitive programming contests.
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/lidyademerw/competitive-programming/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/lidyademerw/competitive-programming/tree/master/2235-add-two-integers) |
 | [2485-find-the-pivot-integer](https://github.com/lidyademerw/competitive-programming/tree/master/2485-find-the-pivot-integer) |
@@ -147,6 +148,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
+| [1952-three-divisors](https://github.com/lidyademerw/competitive-programming/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
@@ -351,6 +353,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
+| [1952-three-divisors](https://github.com/lidyademerw/competitive-programming/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
