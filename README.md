@@ -44,6 +44,7 @@ Solutions and practice problems for competitive programming contests.
 | [1952-three-divisors](https://github.com/lidyademerw/competitive-programming/tree/master/1952-three-divisors) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2235-add-two-integers](https://github.com/lidyademerw/competitive-programming/tree/master/2235-add-two-integers) |
+| [2469-convert-the-temperature](https://github.com/lidyademerw/competitive-programming/tree/master/2469-convert-the-temperature) |
 | [2485-find-the-pivot-integer](https://github.com/lidyademerw/competitive-programming/tree/master/2485-find-the-pivot-integer) |
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
