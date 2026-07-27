@@ -1,12 +1,24 @@
 class Solution:
     def removeDuplicates(self, nums: List[int]) -> int:
-       
-        if not nums:
+        
+        if len(nums) == 0:
             return 0
-        k=1
-        for i in range(len(nums)-1):
-            if nums[i]!=nums[i+1]:
-                nums[k]=nums[i+1]
-                k=k+1
-        return k
-
+    
+    
+        i = 0
+        j = 1
+        
+        while j < len(nums):
+            if nums[i] != nums[j]:
+                
+                i += 1
+                nums[i] = nums[j]
+            
+            
+            j += 1
+        
+        
+        return i + 1
+                            
+            
+      
