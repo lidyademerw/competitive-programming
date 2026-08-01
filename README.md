@@ -49,6 +49,7 @@ Solutions and practice problems for competitive programming contests.
 | [2491-smallest-even-multiple](https://github.com/lidyademerw/competitive-programming/tree/master/2491-smallest-even-multiple) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3536-maximum-product-of-two-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/lidyademerw/competitive-programming/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/lidyademerw/competitive-programming/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -429,6 +430,7 @@ Solutions and practice problems for competitive programming contests.
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lidyademerw/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
@@ -527,6 +529,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lidyademerw/competitive-programming/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Queue
 |  |
 | ------- |
