@@ -32,6 +32,7 @@ Solutions and practice problems for competitive programming contests.
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0728-self-dividing-numbers) |
+| [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/lidyademerw/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -214,6 +215,7 @@ Solutions and practice problems for competitive programming contests.
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
+| [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
 | [0896-monotonic-array](https://github.com/lidyademerw/competitive-programming/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
@@ -446,6 +448,7 @@ Solutions and practice problems for competitive programming contests.
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
 | [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
+| [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
 ## Memoization
 |  |
 | ------- |
@@ -528,6 +531,7 @@ Solutions and practice problems for competitive programming contests.
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lidyademerw/competitive-programming/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 ## Queue
