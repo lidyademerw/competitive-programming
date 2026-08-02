@@ -15,7 +15,7 @@ class Solution:
             if Alice:
                 alice+=value
             else:
-                bob+=value
+                bob+=1
         return alice >=bob
 
 
