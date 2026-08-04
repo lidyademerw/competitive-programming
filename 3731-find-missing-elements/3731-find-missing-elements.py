@@ -3,9 +3,10 @@ class Solution:
         n=max(nums)
         m=min(nums)
         result=[]
+        x=set(nums)
 
         for i in range(m,n+1):
-            if i not in set(nums):
+            if i not in x :
                 result.append(i)
                 
         return result
