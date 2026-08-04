@@ -263,6 +263,7 @@ Solutions and practice problems for competitive programming contests.
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/lidyademerw/competitive-programming/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
+| [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lidyademerw/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Hash Table
@@ -306,6 +307,7 @@ Solutions and practice problems for competitive programming contests.
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Sorting
 |  |
@@ -350,6 +352,7 @@ Solutions and practice problems for competitive programming contests.
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3536-maximum-product-of-two-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3536-maximum-product-of-two-digits) |
+| [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lidyademerw/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Bit Manipulation
 |  |
