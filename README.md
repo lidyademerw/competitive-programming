@@ -83,6 +83,7 @@ Solutions and practice problems for competitive programming contests.
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2540-minimum-common-value](https://github.com/lidyademerw/competitive-programming/tree/master/2540-minimum-common-value) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lidyademerw/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## String
@@ -247,6 +248,7 @@ Solutions and practice problems for competitive programming contests.
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2446-determine-if-two-events-have-conflict](https://github.com/lidyademerw/competitive-programming/tree/master/2446-determine-if-two-events-have-conflict) |
+| [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2475-number-of-unequal-triplets-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/2475-number-of-unequal-triplets-in-array) |
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [2517-maximum-tastiness-of-candy-basket](https://github.com/lidyademerw/competitive-programming/tree/master/2517-maximum-tastiness-of-candy-basket) |
@@ -431,6 +433,7 @@ Solutions and practice problems for competitive programming contests.
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
+| [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
