@@ -16,7 +16,6 @@ class Solution:
         while length!=mid:
             length+=1
             current=current.next
-
         return current
             
 
