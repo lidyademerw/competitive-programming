@@ -128,6 +128,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/lidyademerw/competitive-programming/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
@@ -548,5 +549,6 @@ Solutions and practice problems for competitive programming contests.
 ## Linked List
 |  |
 | ------- |
+| [0203-remove-linked-list-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
