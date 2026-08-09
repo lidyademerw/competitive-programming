@@ -82,6 +82,7 @@ Solutions and practice problems for competitive programming contests.
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
@@ -553,4 +554,5 @@ Solutions and practice problems for competitive programming contests.
 | [0203-remove-linked-list-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
