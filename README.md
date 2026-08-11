@@ -67,6 +67,7 @@ Solutions and practice problems for competitive programming contests.
 | [0075-sort-colors](https://github.com/lidyademerw/competitive-programming/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/lidyademerw/competitive-programming/tree/master/0125-valid-palindrome) |
+| [0141-linked-list-cycle](https://github.com/lidyademerw/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/lidyademerw/competitive-programming/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
@@ -277,6 +278,7 @@ Solutions and practice problems for competitive programming contests.
 | [0003-longest-substring-without-repeating-characters](https://github.com/lidyademerw/competitive-programming/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/0128-longest-consecutive-sequence) |
+| [0141-linked-list-cycle](https://github.com/lidyademerw/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
@@ -553,8 +555,13 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/lidyademerw/competitive-programming/tree/master/0021-merge-two-sorted-lists) |
+| [0141-linked-list-cycle](https://github.com/lidyademerw/competitive-programming/tree/master/0141-linked-list-cycle) |
 | [0203-remove-linked-list-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/lidyademerw/competitive-programming/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
