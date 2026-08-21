@@ -83,6 +83,7 @@ Solutions and practice problems for competitive programming contests.
 | [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
+| [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
@@ -114,6 +115,7 @@ Solutions and practice problems for competitive programming contests.
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/lidyademerw/competitive-programming/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/lidyademerw/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -452,6 +454,7 @@ Solutions and practice problems for competitive programming contests.
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
+| [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
@@ -526,6 +529,7 @@ Solutions and practice problems for competitive programming contests.
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 ## Monotonic Stack
 |  |
 | ------- |
