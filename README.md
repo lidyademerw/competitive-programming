@@ -119,6 +119,7 @@ Solutions and practice problems for competitive programming contests.
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/lidyademerw/competitive-programming/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -533,6 +534,7 @@ Solutions and practice problems for competitive programming contests.
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Monotonic Stack
 |  |
 | ------- |
