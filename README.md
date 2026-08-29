@@ -137,6 +137,7 @@ Solutions and practice problems for competitive programming contests.
 | [2515-shortest-distance-to-target-string-in-a-circular-array](https://github.com/lidyademerw/competitive-programming/tree/master/2515-shortest-distance-to-target-string-in-a-circular-array) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3174-clear-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3174-clear-digits) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
 ## Recursion
@@ -468,6 +469,7 @@ Solutions and practice problems for competitive programming contests.
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
+| [3174-clear-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3174-clear-digits) |
 | [3222-find-the-winning-player-in-coin-game](https://github.com/lidyademerw/competitive-programming/tree/master/3222-find-the-winning-player-in-coin-game) |
 | [3813-vowel-consonant-score](https://github.com/lidyademerw/competitive-programming/tree/master/3813-vowel-consonant-score) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/lidyademerw/competitive-programming/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -547,6 +549,7 @@ Solutions and practice problems for competitive programming contests.
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [3174-clear-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
 | ------- |
