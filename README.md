@@ -288,6 +288,7 @@ Solutions and practice problems for competitive programming contests.
 | [2874-maximum-value-of-an-ordered-triplet-ii](https://github.com/lidyademerw/competitive-programming/tree/master/2874-maximum-value-of-an-ordered-triplet-ii) |
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/lidyademerw/competitive-programming/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -334,6 +335,7 @@ Solutions and practice problems for competitive programming contests.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -609,6 +611,7 @@ Solutions and practice problems for competitive programming contests.
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
