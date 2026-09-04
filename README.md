@@ -256,6 +256,7 @@ Solutions and practice problems for competitive programming contests.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lidyademerw/competitive-programming/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/lidyademerw/competitive-programming/tree/master/1732-find-the-highest-altitude) |
 | [1833-maximum-ice-cream-bars](https://github.com/lidyademerw/competitive-programming/tree/master/1833-maximum-ice-cream-bars) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -469,6 +470,7 @@ Solutions and practice problems for competitive programming contests.
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
@@ -552,6 +554,7 @@ Solutions and practice problems for competitive programming contests.
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/lidyademerw/competitive-programming/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3174-clear-digits) |
@@ -594,6 +597,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 ## Linked List
 |  |
 | ------- |
