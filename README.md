@@ -267,6 +267,7 @@ Solutions and practice problems for competitive programming contests.
 | [1979-find-greatest-common-divisor-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2016-maximum-difference-between-increasing-elements) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -472,6 +473,7 @@ Solutions and practice problems for competitive programming contests.
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
 | [2460-apply-operations-to-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2460-apply-operations-to-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/2553-separate-the-digits-in-an-array) |
@@ -598,6 +600,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
+| [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
 |  |
 | ------- |
