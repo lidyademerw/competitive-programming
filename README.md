@@ -599,6 +599,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 ## Linked List
@@ -628,8 +629,13 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
+| [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
