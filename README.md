@@ -549,6 +549,7 @@ Solutions and practice problems for competitive programming contests.
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lidyademerw/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
@@ -599,6 +600,7 @@ Solutions and practice problems for competitive programming contests.
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
@@ -630,6 +632,7 @@ Solutions and practice problems for competitive programming contests.
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
