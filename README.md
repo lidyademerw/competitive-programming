@@ -237,6 +237,7 @@ Solutions and practice problems for competitive programming contests.
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
+| [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
@@ -603,6 +604,7 @@ Solutions and practice problems for competitive programming contests.
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
+| [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
@@ -620,6 +622,7 @@ Solutions and practice problems for competitive programming contests.
 | [0206-reverse-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0237-delete-node-in-a-linked-list) |
+| [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -634,6 +637,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
+| [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
