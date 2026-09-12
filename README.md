@@ -157,6 +157,7 @@ Solutions and practice problems for competitive programming contests.
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -276,6 +277,7 @@ Solutions and practice problems for competitive programming contests.
 | [2073-time-needed-to-buy-tickets](https://github.com/lidyademerw/competitive-programming/tree/master/2073-time-needed-to-buy-tickets) |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/lidyademerw/competitive-programming/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
@@ -332,6 +334,7 @@ Solutions and practice problems for competitive programming contests.
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
@@ -384,6 +387,7 @@ Solutions and practice problems for competitive programming contests.
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/lidyademerw/competitive-programming/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1968-array-with-elements-not-equal-to-average-of-neighbors](https://github.com/lidyademerw/competitive-programming/tree/master/1968-array-with-elements-not-equal-to-average-of-neighbors) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/lidyademerw/competitive-programming/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2273-find-resultant-array-after-removing-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/2273-find-resultant-array-after-removing-anagrams) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/lidyademerw/competitive-programming/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -416,6 +420,7 @@ Solutions and practice problems for competitive programming contests.
 | [1925-count-square-sum-triples](https://github.com/lidyademerw/competitive-programming/tree/master/1925-count-square-sum-triples) |
 | [1952-three-divisors](https://github.com/lidyademerw/competitive-programming/tree/master/1952-three-divisors) |
 | [1995-count-special-quadruplets](https://github.com/lidyademerw/competitive-programming/tree/master/1995-count-special-quadruplets) |
+| [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2309-greatest-english-letter-in-upper-and-lower-case](https://github.com/lidyademerw/competitive-programming/tree/master/2309-greatest-english-letter-in-upper-and-lower-case) |
 | [2367-number-of-arithmetic-triplets](https://github.com/lidyademerw/competitive-programming/tree/master/2367-number-of-arithmetic-triplets) |
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
