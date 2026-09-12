@@ -158,6 +158,7 @@ Solutions and practice problems for competitive programming contests.
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
 | ------- |
@@ -299,6 +300,7 @@ Solutions and practice problems for competitive programming contests.
 | [2908-minimum-sum-of-mountain-triplets-i](https://github.com/lidyademerw/competitive-programming/tree/master/2908-minimum-sum-of-mountain-triplets-i) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3637-trionic-array-i](https://github.com/lidyademerw/competitive-programming/tree/master/3637-trionic-array-i) |
 | [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -347,6 +349,7 @@ Solutions and practice problems for competitive programming contests.
 | [3120-count-the-number-of-special-characters-i](https://github.com/lidyademerw/competitive-programming/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3121-count-the-number-of-special-characters-ii](https://github.com/lidyademerw/competitive-programming/tree/master/3121-count-the-number-of-special-characters-ii) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/lidyademerw/competitive-programming/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3731-find-missing-elements](https://github.com/lidyademerw/competitive-programming/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/3737-count-subarrays-with-majority-element-i) |
@@ -426,6 +429,7 @@ Solutions and practice problems for competitive programming contests.
 | [2507-number-of-common-factors](https://github.com/lidyademerw/competitive-programming/tree/master/2507-number-of-common-factors) |
 | [2761-prime-pairs-with-target-sum](https://github.com/lidyademerw/competitive-programming/tree/master/2761-prime-pairs-with-target-sum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/lidyademerw/competitive-programming/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3483-unique-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
