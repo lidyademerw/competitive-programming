@@ -1,0 +1,19 @@
+class Solution:
+    def totalNumbers(self, digits: List[int]) -> int:
+        count=[0]*10
+        num=0
+        for digit in digits:
+            count[digit]+=1
+        for i in range(100,999,2):
+            h=i//100
+            t=(i//10)%10
+            u=i%10
+            count[h]-=1
+            count[t]-=1
+            count[u]-=1
+            if count[h]>=0 and count[t]>=0 and count[u]>=0:
+                num+=1
+            count[h]+=1
+            count[t]+=1
+            count[u]+=1
+        return num
