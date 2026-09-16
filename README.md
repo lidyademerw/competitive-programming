@@ -572,6 +572,7 @@ Solutions and practice problems for competitive programming contests.
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
+| [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -583,6 +584,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 ## Interactive
 |  |
 | ------- |
@@ -655,6 +657,7 @@ Solutions and practice problems for competitive programming contests.
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
+| [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 ## Bracket Sequences
 |  |
@@ -663,5 +666,6 @@ Solutions and practice problems for competitive programming contests.
 ## Data Stream
 |  |
 | ------- |
+| [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/lidyademerw/competitive-programming/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
