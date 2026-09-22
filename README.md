@@ -567,6 +567,7 @@ Solutions and practice problems for competitive programming contests.
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lidyademerw/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0155-min-stack](https://github.com/lidyademerw/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
@@ -657,6 +658,7 @@ Solutions and practice problems for competitive programming contests.
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/lidyademerw/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
