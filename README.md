@@ -129,6 +129,7 @@ Solutions and practice problems for competitive programming contests.
 | [1189-maximum-number-of-balloons](https://github.com/lidyademerw/competitive-programming/tree/master/1189-maximum-number-of-balloons) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/lidyademerw/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1903-largest-odd-number-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1903-largest-odd-number-in-string) |
@@ -265,6 +266,7 @@ Solutions and practice problems for competitive programming contests.
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/lidyademerw/competitive-programming/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lidyademerw/competitive-programming/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/lidyademerw/competitive-programming/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [1598-crawler-log-folder](https://github.com/lidyademerw/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1732-find-the-highest-altitude](https://github.com/lidyademerw/competitive-programming/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -582,6 +584,7 @@ Solutions and practice problems for competitive programming contests.
 | [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/lidyademerw/competitive-programming/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
+| [1598-crawler-log-folder](https://github.com/lidyademerw/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/lidyademerw/competitive-programming/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
