@@ -247,6 +247,7 @@ Solutions and practice problems for competitive programming contests.
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/lidyademerw/competitive-programming/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
+| [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
@@ -486,6 +487,7 @@ Solutions and practice problems for competitive programming contests.
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
+| [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
@@ -573,6 +575,7 @@ Solutions and practice problems for competitive programming contests.
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
