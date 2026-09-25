@@ -242,6 +242,7 @@ Solutions and practice problems for competitive programming contests.
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
@@ -577,6 +578,7 @@ Solutions and practice problems for competitive programming contests.
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -594,6 +596,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 ## Interactive
