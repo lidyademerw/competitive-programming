@@ -118,6 +118,7 @@ Solutions and practice problems for competitive programming contests.
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
+| [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
 | [0520-detect-capital](https://github.com/lidyademerw/competitive-programming/tree/master/0520-detect-capital) |
@@ -472,6 +473,7 @@ Solutions and practice problems for competitive programming contests.
 | [0011-container-with-most-water](https://github.com/lidyademerw/competitive-programming/tree/master/0011-container-with-most-water) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0334-increasing-triplet-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/lidyademerw/competitive-programming/tree/master/0561-array-partition) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/lidyademerw/competitive-programming/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -577,6 +579,7 @@ Solutions and practice problems for competitive programming contests.
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
@@ -595,6 +598,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
