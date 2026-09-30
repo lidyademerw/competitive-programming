@@ -93,6 +93,7 @@ Solutions and practice problems for competitive programming contests.
 | [0905-sort-array-by-parity](https://github.com/lidyademerw/competitive-programming/tree/master/0905-sort-array-by-parity) |
 | [0925-long-pressed-name](https://github.com/lidyademerw/competitive-programming/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0977-squares-of-a-sorted-array) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2000-reverse-prefix-of-word](https://github.com/lidyademerw/competitive-programming/tree/master/2000-reverse-prefix-of-word) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -673,6 +674,7 @@ Solutions and practice problems for competitive programming contests.
 | [0622-design-circular-queue](https://github.com/lidyademerw/competitive-programming/tree/master/0622-design-circular-queue) |
 | [0707-design-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
+| [1721-swapping-nodes-in-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
