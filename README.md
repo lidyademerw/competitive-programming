@@ -167,6 +167,7 @@ Solutions and practice problems for competitive programming contests.
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
+| [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
 | [3483-unique-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/3483-unique-3-digit-even-numbers) |
 ## Binary Search
 |  |
@@ -610,6 +611,7 @@ Solutions and practice problems for competitive programming contests.
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [2000-reverse-prefix-of-word](https://github.com/lidyademerw/competitive-programming/tree/master/2000-reverse-prefix-of-word) |
 | [2390-removing-stars-from-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/2390-removing-stars-from-a-string) |
+| [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
 | [3174-clear-digits](https://github.com/lidyademerw/competitive-programming/tree/master/3174-clear-digits) |
 ## Monotonic Stack
 |  |
@@ -621,6 +623,7 @@ Solutions and practice problems for competitive programming contests.
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/lidyademerw/competitive-programming/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/lidyademerw/competitive-programming/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
+| [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
 ## Interactive
 |  |
 | ------- |
@@ -686,6 +689,7 @@ Solutions and practice problems for competitive programming contests.
 | [0876-middle-of-the-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0876-middle-of-the-linked-list) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/1721-swapping-nodes-in-a-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
 | [3217-delete-nodes-from-linked-list-present-in-array](https://github.com/lidyademerw/competitive-programming/tree/master/3217-delete-nodes-from-linked-list-present-in-array) |
 ## Floyd's Cycle Finding Algorithm
 |  |
