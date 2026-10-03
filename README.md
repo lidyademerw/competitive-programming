@@ -184,6 +184,7 @@ Solutions and practice problems for competitive programming contests.
 | [0350-intersection-of-two-arrays-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0367-valid-perfect-square](https://github.com/lidyademerw/competitive-programming/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/lidyademerw/competitive-programming/tree/master/0374-guess-number-higher-or-lower) |
+| [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/lidyademerw/competitive-programming/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/lidyademerw/competitive-programming/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -249,6 +250,7 @@ Solutions and practice problems for competitive programming contests.
 | [0442-find-all-duplicates-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/lidyademerw/competitive-programming/tree/master/0455-assign-cookies) |
+| [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0506-relative-ranks](https://github.com/lidyademerw/competitive-programming/tree/master/0506-relative-ranks) |
@@ -597,6 +599,7 @@ Solutions and practice problems for competitive programming contests.
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
@@ -620,6 +623,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
+| [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -723,4 +727,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0912-sort-an-array) |
+## Ordered Set
+|  |
+| ------- |
+| [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 <!---LeetCode Topics End-->
