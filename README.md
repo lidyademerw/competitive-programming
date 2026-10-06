@@ -649,6 +649,7 @@ Solutions and practice problems for competitive programming contests.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
 ## Segment Tree
 |  |
@@ -737,4 +738,16 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
+## Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
