@@ -653,6 +653,7 @@ Solutions and practice problems for competitive programming contests.
 | [0102-binary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Segment Tree
 |  |
 | ------- |
@@ -746,6 +747,7 @@ Solutions and practice problems for competitive programming contests.
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
