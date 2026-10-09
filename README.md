@@ -606,6 +606,7 @@ Solutions and practice problems for competitive programming contests.
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0503-next-greater-element-ii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/lidyademerw/competitive-programming/tree/master/0739-daily-temperatures) |
@@ -750,12 +751,14 @@ Solutions and practice problems for competitive programming contests.
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
+| [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
 |  |
 | ------- |
