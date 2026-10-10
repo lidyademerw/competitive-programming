@@ -595,6 +595,7 @@ Solutions and practice problems for competitive programming contests.
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
 | [0143-reorder-list](https://github.com/lidyademerw/competitive-programming/tree/master/0143-reorder-list) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lidyademerw/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lidyademerw/competitive-programming/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
@@ -749,6 +750,7 @@ Solutions and practice problems for competitive programming contests.
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -757,6 +759,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -765,4 +768,5 @@ Solutions and practice problems for competitive programming contests.
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0102-binary-tree-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 <!---LeetCode Topics End-->
