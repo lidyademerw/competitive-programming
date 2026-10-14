@@ -659,6 +659,7 @@ Solutions and practice problems for competitive programming contests.
 | [0111-minimum-depth-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/lidyademerw/competitive-programming/tree/master/0112-path-sum) |
 | [0279-perfect-squares](https://github.com/lidyademerw/competitive-programming/tree/master/0279-perfect-squares) |
+| [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 ## Segment Tree
 |  |
@@ -758,6 +759,7 @@ Solutions and practice problems for competitive programming contests.
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
@@ -771,6 +773,7 @@ Solutions and practice problems for competitive programming contests.
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -784,4 +787,5 @@ Solutions and practice problems for competitive programming contests.
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
 | [0129-sum-root-to-leaf-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
+| [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 <!---LeetCode Topics End-->
