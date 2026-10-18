@@ -764,6 +764,7 @@ Solutions and practice problems for competitive programming contests.
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
+| [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
@@ -779,6 +780,7 @@ Solutions and practice problems for competitive programming contests.
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 ## Binary Tree
@@ -795,4 +797,5 @@ Solutions and practice problems for competitive programming contests.
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
+| [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 <!---LeetCode Topics End-->
