@@ -777,6 +777,7 @@ Solutions and practice problems for competitive programming contests.
 | [0199-binary-tree-right-side-view](https://github.com/lidyademerw/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
@@ -800,6 +801,7 @@ Solutions and practice problems for competitive programming contests.
 | [0199-binary-tree-right-side-view](https://github.com/lidyademerw/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
@@ -826,6 +828,7 @@ Solutions and practice problems for competitive programming contests.
 | [0199-binary-tree-right-side-view](https://github.com/lidyademerw/competitive-programming/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
@@ -840,8 +843,10 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 ## Lowest Common Ancestor
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
