@@ -669,6 +669,7 @@ Solutions and practice problems for competitive programming contests.
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Segment Tree
 |  |
@@ -784,6 +785,7 @@ Solutions and practice problems for competitive programming contests.
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Depth-First Search
 |  |
@@ -807,6 +809,7 @@ Solutions and practice problems for competitive programming contests.
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
+| [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Tree
 |  |
@@ -832,6 +835,7 @@ Solutions and practice problems for competitive programming contests.
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
+| [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 ## Binary Search Tree
 |  |
