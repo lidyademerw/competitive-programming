@@ -672,6 +672,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Segment Tree
 |  |
 | ------- |
@@ -790,6 +791,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -816,6 +818,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -844,6 +847,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [2415-reverse-odd-levels-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
