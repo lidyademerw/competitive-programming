@@ -34,6 +34,7 @@ Solutions and practice problems for competitive programming contests.
 | [0628-maximum-product-of-three-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/0728-self-dividing-numbers) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lidyademerw/competitive-programming/tree/master/0779-k-th-symbol-in-grammar) |
 | [0877-stone-game](https://github.com/lidyademerw/competitive-programming/tree/master/0877-stone-game) |
 | [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/lidyademerw/competitive-programming/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -168,6 +169,7 @@ Solutions and practice problems for competitive programming contests.
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lidyademerw/competitive-programming/tree/master/0779-k-th-symbol-in-grammar) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
@@ -440,6 +442,7 @@ Solutions and practice problems for competitive programming contests.
 | [0371-sum-of-two-integers](https://github.com/lidyademerw/competitive-programming/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0645-set-mismatch](https://github.com/lidyademerw/competitive-programming/tree/master/0645-set-mismatch) |
+| [0779-k-th-symbol-in-grammar](https://github.com/lidyademerw/competitive-programming/tree/master/0779-k-th-symbol-in-grammar) |
 | [2351-first-letter-to-appear-twice](https://github.com/lidyademerw/competitive-programming/tree/master/2351-first-letter-to-appear-twice) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/lidyademerw/competitive-programming/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 ## Enumeration
