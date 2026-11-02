@@ -568,6 +568,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -801,6 +802,7 @@ Solutions and practice problems for competitive programming contests.
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -833,6 +835,7 @@ Solutions and practice problems for competitive programming contests.
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 | [0589-n-ary-tree-preorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0589-n-ary-tree-preorder-traversal) |
 | [0590-n-ary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0590-n-ary-tree-postorder-traversal) |
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
@@ -870,6 +873,7 @@ Solutions and practice problems for competitive programming contests.
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
 | [0543-diameter-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0543-diameter-of-binary-tree) |
+| [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
@@ -902,4 +906,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Hash Function
+|  |
+| ------- |
+| [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
 <!---LeetCode Topics End-->
