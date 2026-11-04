@@ -118,6 +118,7 @@ Solutions and practice problems for competitive programming contests.
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/lidyademerw/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/lidyademerw/competitive-programming/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0345-reverse-vowels-of-a-string) |
@@ -660,6 +661,7 @@ Solutions and practice problems for competitive programming contests.
 | [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
+| [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
 ## Breadth-First Search
 |  |
@@ -797,6 +799,7 @@ Solutions and practice problems for competitive programming contests.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lidyademerw/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0429-n-ary-tree-level-order-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0429-n-ary-tree-level-order-traversal) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
@@ -830,6 +833,7 @@ Solutions and practice problems for competitive programming contests.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lidyademerw/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
@@ -869,6 +873,7 @@ Solutions and practice problems for competitive programming contests.
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lidyademerw/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/lidyademerw/competitive-programming/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0437-path-sum-iii) |
 | [0513-find-bottom-left-tree-value](https://github.com/lidyademerw/competitive-programming/tree/master/0513-find-bottom-left-tree-value) |
