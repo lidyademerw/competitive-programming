@@ -682,6 +682,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/lidyademerw/competitive-programming/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -813,6 +814,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/lidyademerw/competitive-programming/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/lidyademerw/competitive-programming/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -849,6 +851,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/lidyademerw/competitive-programming/tree/master/0814-binary-tree-pruning) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/lidyademerw/competitive-programming/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/1448-count-good-nodes-in-binary-tree) |
@@ -887,6 +890,7 @@ Solutions and practice problems for competitive programming contests.
 | [0617-merge-two-binary-trees](https://github.com/lidyademerw/competitive-programming/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/lidyademerw/competitive-programming/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0958-check-completeness-of-a-binary-tree) |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/lidyademerw/competitive-programming/tree/master/1315-sum-of-nodes-with-even-valued-grandparent) |
@@ -900,6 +904,7 @@ Solutions and practice problems for competitive programming contests.
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/lidyademerw/competitive-programming/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
 | ------- |
