@@ -817,6 +817,7 @@ Solutions and practice problems for competitive programming contests.
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/lidyademerw/competitive-programming/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -896,6 +897,7 @@ Solutions and practice problems for competitive programming contests.
 | [0637-average-of-levels-in-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0662-maximum-width-of-binary-tree) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0814-binary-tree-pruning](https://github.com/lidyademerw/competitive-programming/tree/master/0814-binary-tree-pruning) |
 | [0958-check-completeness-of-a-binary-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0958-check-completeness-of-a-binary-tree) |
@@ -912,6 +914,7 @@ Solutions and practice problems for competitive programming contests.
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/lidyademerw/competitive-programming/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0700-search-in-a-binary-search-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Lifting
 |  |
