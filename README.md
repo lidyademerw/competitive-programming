@@ -138,6 +138,7 @@ Solutions and practice problems for competitive programming contests.
 | [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/lidyademerw/competitive-programming/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1544-make-the-string-great](https://github.com/lidyademerw/competitive-programming/tree/master/1544-make-the-string-great) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/lidyademerw/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1598-crawler-log-folder](https://github.com/lidyademerw/competitive-programming/tree/master/1598-crawler-log-folder) |
 | [1790-check-if-one-string-swap-can-make-strings-equal](https://github.com/lidyademerw/competitive-programming/tree/master/1790-check-if-one-string-swap-can-make-strings-equal) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
@@ -171,6 +172,7 @@ Solutions and practice problems for competitive programming contests.
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lidyademerw/competitive-programming/tree/master/0779-k-th-symbol-in-grammar) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/lidyademerw/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [2094-finding-3-digit-even-numbers](https://github.com/lidyademerw/competitive-programming/tree/master/2094-finding-3-digit-even-numbers) |
 | [2487-remove-nodes-from-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/2487-remove-nodes-from-linked-list) |
@@ -522,6 +524,7 @@ Solutions and practice problems for competitive programming contests.
 | [0682-baseball-game](https://github.com/lidyademerw/competitive-programming/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/lidyademerw/competitive-programming/tree/master/0735-asteroid-collision) |
 | [0844-backspace-string-compare](https://github.com/lidyademerw/competitive-programming/tree/master/0844-backspace-string-compare) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/lidyademerw/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/lidyademerw/competitive-programming/tree/master/1700-number-of-students-unable-to-eat-lunch) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/lidyademerw/competitive-programming/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/lidyademerw/competitive-programming/tree/master/1929-concatenation-of-array) |
