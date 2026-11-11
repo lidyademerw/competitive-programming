@@ -126,6 +126,7 @@ Solutions and practice problems for competitive programming contests.
 | [0387-first-unique-character-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/lidyademerw/competitive-programming/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/lidyademerw/competitive-programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0412-fizz-buzz](https://github.com/lidyademerw/competitive-programming/tree/master/0412-fizz-buzz) |
 | [0415-add-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0415-add-strings) |
@@ -171,6 +172,7 @@ Solutions and practice problems for competitive programming contests.
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/lidyademerw/competitive-programming/tree/master/0342-power-of-four) |
+| [0394-decode-string](https://github.com/lidyademerw/competitive-programming/tree/master/0394-decode-string) |
 | [0509-fibonacci-number](https://github.com/lidyademerw/competitive-programming/tree/master/0509-fibonacci-number) |
 | [0779-k-th-symbol-in-grammar](https://github.com/lidyademerw/competitive-programming/tree/master/0779-k-th-symbol-in-grammar) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/lidyademerw/competitive-programming/tree/master/1545-find-kth-bit-in-nth-binary-string) |
@@ -619,6 +621,7 @@ Solutions and practice problems for competitive programming contests.
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
+| [0394-decode-string](https://github.com/lidyademerw/competitive-programming/tree/master/0394-decode-string) |
 | [0402-remove-k-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0402-remove-k-digits) |
 | [0456-132-pattern](https://github.com/lidyademerw/competitive-programming/tree/master/0456-132-pattern) |
 | [0496-next-greater-element-i](https://github.com/lidyademerw/competitive-programming/tree/master/0496-next-greater-element-i) |
