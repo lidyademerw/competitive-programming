@@ -16,6 +16,7 @@ Solutions and practice problems for competitive programming contests.
 | [0150-evaluate-reverse-polish-notation](https://github.com/lidyademerw/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/lidyademerw/competitive-programming/tree/master/0172-factorial-trailing-zeroes) |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/lidyademerw/competitive-programming/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0258-add-digits) |
 | [0263-ugly-number](https://github.com/lidyademerw/competitive-programming/tree/master/0263-ugly-number) |
@@ -118,6 +119,7 @@ Solutions and practice problems for competitive programming contests.
 | [0058-length-of-last-word](https://github.com/lidyademerw/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/lidyademerw/competitive-programming/tree/master/0125-valid-palindrome) |
+| [0224-basic-calculator](https://github.com/lidyademerw/competitive-programming/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/lidyademerw/competitive-programming/tree/master/0316-remove-duplicate-letters) |
@@ -168,6 +170,7 @@ Solutions and practice problems for competitive programming contests.
 | [0143-reorder-list](https://github.com/lidyademerw/competitive-programming/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/lidyademerw/competitive-programming/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/lidyademerw/competitive-programming/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/lidyademerw/competitive-programming/tree/master/0326-power-of-three) |
@@ -617,6 +620,7 @@ Solutions and practice problems for competitive programming contests.
 | [0145-binary-tree-postorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/lidyademerw/competitive-programming/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/lidyademerw/competitive-programming/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/lidyademerw/competitive-programming/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/lidyademerw/competitive-programming/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/lidyademerw/competitive-programming/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/0234-palindrome-linked-list) |
