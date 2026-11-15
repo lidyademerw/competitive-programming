@@ -1,9 +1,13 @@
 class Solution:
     def subsets(self, nums: List[int]) -> List[List[int]]:
-        n=len(nums)
-        x=[[]]
-        for i in nums:
-            x+=[list + [i] for list in x]
+        x=[]
+        def sub(i,res):
+            if i==len(nums):
+                x.append(res)
+                return
+            sub(i+1,res)
+            sub(i+1,res+[nums[i]])
+        sub(0,[])
         return x
           
 
