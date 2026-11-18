@@ -230,6 +230,7 @@ Solutions and practice problems for competitive programming contests.
 | [0027-remove-element](https://github.com/lidyademerw/competitive-programming/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/lidyademerw/competitive-programming/tree/master/0035-search-insert-position) |
+| [0039-combination-sum](https://github.com/lidyademerw/competitive-programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lidyademerw/competitive-programming/tree/master/0046-permutations) |
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/lidyademerw/competitive-programming/tree/master/0053-maximum-subarray) |
@@ -669,6 +670,7 @@ Solutions and practice problems for competitive programming contests.
 ## Backtracking
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/lidyademerw/competitive-programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lidyademerw/competitive-programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lidyademerw/competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
