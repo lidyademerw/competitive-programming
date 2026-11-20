@@ -114,6 +114,7 @@ Solutions and practice problems for competitive programming contests.
 | [0014-longest-common-prefix](https://github.com/lidyademerw/competitive-programming/tree/master/0014-longest-common-prefix) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lidyademerw/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/lidyademerw/competitive-programming/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0043-multiply-strings](https://github.com/lidyademerw/competitive-programming/tree/master/0043-multiply-strings) |
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
@@ -549,6 +550,7 @@ Solutions and practice problems for competitive programming contests.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/lidyademerw/competitive-programming/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/lidyademerw/competitive-programming/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0119-pascals-triangle-ii) |
@@ -673,6 +675,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/lidyademerw/competitive-programming/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0022-generate-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/lidyademerw/competitive-programming/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/lidyademerw/competitive-programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lidyademerw/competitive-programming/tree/master/0077-combinations) |
@@ -783,6 +786,7 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/lidyademerw/competitive-programming/tree/master/0022-generate-parentheses) |
 ## Data Stream
 |  |
 | ------- |
