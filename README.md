@@ -195,6 +195,7 @@ Solutions and practice problems for competitive programming contests.
 | [0069-sqrtx](https://github.com/lidyademerw/competitive-programming/tree/master/0069-sqrtx) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/lidyademerw/competitive-programming/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/lidyademerw/competitive-programming/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/lidyademerw/competitive-programming/tree/master/0287-find-the-duplicate-number) |
 | [0300-longest-increasing-subsequence](https://github.com/lidyademerw/competitive-programming/tree/master/0300-longest-increasing-subsequence) |
@@ -257,6 +258,7 @@ Solutions and practice problems for competitive programming contests.
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lidyademerw/competitive-programming/tree/master/0238-product-of-array-except-self) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/lidyademerw/competitive-programming/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/lidyademerw/competitive-programming/tree/master/0283-move-zeroes) |
@@ -483,6 +485,7 @@ Solutions and practice problems for competitive programming contests.
 | [0148-sort-list](https://github.com/lidyademerw/competitive-programming/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
 | [0347-top-k-frequent-elements](https://github.com/lidyademerw/competitive-programming/tree/master/0347-top-k-frequent-elements) |
 | [0372-super-pow](https://github.com/lidyademerw/competitive-programming/tree/master/0372-super-pow) |
 | [0912-sort-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0912-sort-an-array) |
@@ -960,4 +963,8 @@ Solutions and practice problems for competitive programming contests.
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0572-subtree-of-another-tree) |
+## Matrix
+|  |
+| ------- |
+| [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
