@@ -256,6 +256,7 @@ Solutions and practice problems for competitive programming contests.
 | [0169-majority-element](https://github.com/lidyademerw/competitive-programming/tree/master/0169-majority-element) |
 | [0204-count-primes](https://github.com/lidyademerw/competitive-programming/tree/master/0204-count-primes) |
 | [0215-kth-largest-element-in-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/0215-kth-largest-element-in-an-array) |
+| [0216-combination-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/lidyademerw/competitive-programming/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/lidyademerw/competitive-programming/tree/master/0238-product-of-array-except-self) |
@@ -687,6 +688,7 @@ Solutions and practice problems for competitive programming contests.
 | [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
 ## Breadth-First Search
