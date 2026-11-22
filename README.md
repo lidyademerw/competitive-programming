@@ -120,6 +120,7 @@ Solutions and practice problems for competitive programming contests.
 | [0049-group-anagrams](https://github.com/lidyademerw/competitive-programming/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/lidyademerw/competitive-programming/tree/master/0058-length-of-last-word) |
 | [0071-simplify-path](https://github.com/lidyademerw/competitive-programming/tree/master/0071-simplify-path) |
+| [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/lidyademerw/competitive-programming/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/lidyademerw/competitive-programming/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/lidyademerw/competitive-programming/tree/master/0242-valid-anagram) |
@@ -242,6 +243,7 @@ Solutions and practice problems for competitive programming contests.
 | [0066-plus-one](https://github.com/lidyademerw/competitive-programming/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/lidyademerw/competitive-programming/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/lidyademerw/competitive-programming/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -686,6 +688,7 @@ Solutions and practice problems for competitive programming contests.
 | [0046-permutations](https://github.com/lidyademerw/competitive-programming/tree/master/0046-permutations) |
 | [0077-combinations](https://github.com/lidyademerw/competitive-programming/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/lidyademerw/competitive-programming/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0113-path-sum-ii) |
 | [0216-combination-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0216-combination-sum-iii) |
@@ -856,6 +859,7 @@ Solutions and practice problems for competitive programming contests.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/lidyademerw/competitive-programming/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/lidyademerw/competitive-programming/tree/master/0100-same-tree) |
@@ -970,5 +974,6 @@ Solutions and practice problems for competitive programming contests.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
 <!---LeetCode Topics End-->
