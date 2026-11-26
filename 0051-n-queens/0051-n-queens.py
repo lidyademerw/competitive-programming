@@ -1,30 +1,28 @@
 class Solution:
     def solveNQueens(self, n: int) -> list[list[str]]:
-        res=[]
-        board=[["."]*n for i in range(n)]
         col=set()
         posdia=set()
         negdia=set()
-        def backtrack(row):
-            if row==n:
-                ans=[]
-                for r in board:
-                    ans.append("".join(r))
-                res.append(ans)
+        x=[]
+        border=[["."]*n for _ in range(n)]
+        def backtrack(r):
+            if r==n:
+                x.append(["".join(m) for m in border])
+                return
             for c in range(n):
-                if  c in col or (row-c) in negdia or (row+c) in posdia:
+                if c in col or (r-c) in negdia or  (r+c) in posdia:
                     continue
-                board[row][c]="Q"
                 col.add(c)
-                posdia.add(row+c)
-                negdia.add(row-c)
-                backtrack(row+1)
-                board[row][c]="."
+                posdia.add(r+c)
+                negdia.add(r-c)
+                border[r][c]="Q"
+                backtrack(r+1)
                 col.remove(c)
-                posdia.remove(row+c)
-                negdia.remove(row-c)
+                posdia.remove(r+c)
+                negdia.remove(r-c)
+                border[r][c]="."
         backtrack(0)
-        return res
-                
+        return x
+       
 
 
