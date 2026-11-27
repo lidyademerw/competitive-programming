@@ -298,6 +298,7 @@ Solutions and practice problems for competitive programming contests.
 | [0989-add-to-array-form-of-integer](https://github.com/lidyademerw/competitive-programming/tree/master/0989-add-to-array-form-of-integer) |
 | [1002-find-common-characters](https://github.com/lidyademerw/competitive-programming/tree/master/1002-find-common-characters) |
 | [1019-next-greater-node-in-linked-list](https://github.com/lidyademerw/competitive-programming/tree/master/1019-next-greater-node-in-linked-list) |
+| [1219-path-with-maximum-gold](https://github.com/lidyademerw/competitive-programming/tree/master/1219-path-with-maximum-gold) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/lidyademerw/competitive-programming/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/lidyademerw/competitive-programming/tree/master/1299-replace-elements-with-greatest-element-on-right-side) |
 | [1331-rank-transform-of-an-array](https://github.com/lidyademerw/competitive-programming/tree/master/1331-rank-transform-of-an-array) |
@@ -700,6 +701,7 @@ Solutions and practice problems for competitive programming contests.
 | [0216-combination-sum-iii](https://github.com/lidyademerw/competitive-programming/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/lidyademerw/competitive-programming/tree/master/0257-binary-tree-paths) |
 | [0357-count-numbers-with-unique-digits](https://github.com/lidyademerw/competitive-programming/tree/master/0357-count-numbers-with-unique-digits) |
+| [1219-path-with-maximum-gold](https://github.com/lidyademerw/competitive-programming/tree/master/1219-path-with-maximum-gold) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -982,6 +984,7 @@ Solutions and practice problems for competitive programming contests.
 | ------- |
 | [0079-word-search](https://github.com/lidyademerw/competitive-programming/tree/master/0079-word-search) |
 | [0240-search-a-2d-matrix-ii](https://github.com/lidyademerw/competitive-programming/tree/master/0240-search-a-2d-matrix-ii) |
+| [1219-path-with-maximum-gold](https://github.com/lidyademerw/competitive-programming/tree/master/1219-path-with-maximum-gold) |
 ## Algorithm X
 |  |
 | ------- |
